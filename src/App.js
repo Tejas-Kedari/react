@@ -11,7 +11,7 @@ import ResumePage from './Pages/ResumePage';
 import ContactPage from './Pages/ContactPage';
 import Brightness4Icon from '@material-ui/icons/Brightness4';
 import MenuIcon from '@material-ui/icons/Menu';
-import { Router,Route, Switch as Switching } from "react-router";
+import { Router, Route, Switch as Switching } from "react-router";
 import Switch from '@material-ui/core/Switch'
 import { IconButton } from "@material-ui/core";
 
@@ -72,7 +72,7 @@ function App() {
           </div>
           <Router basename="/react">
           <Switching>
-            <Route path="/react" exact>
+            <Route path="/" exact>
               <HomePage />
             </Route>
             <Route path="/about" exact>
