@@ -1,53 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="85px" height="85px" viewBox="0 0 85 85" enable-background="new 0 0 85 85" xml:space="preserve">
-<g>
-	<path fill="none" stroke="#037FFF" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M22.355,21.169c-2.105,1.208-3.928,3.824-2.515,9.477c0,0-11.5,10-1,20.249c0,0-3,13.5,8.5,14.25"/>
-	<g>
-		<path fill="none" stroke="#037FFF" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" d="M35.439,28.398
-			c-4.488,0-8.125-3.639-8.125-8.125c0-4.488,3.638-8.125,8.125-8.125c4.486,0,8.124,3.637,8.124,8.125v45.196
-			c0,2.719-1.428,4.998-3.862,6.459c-3.785,2.275-8.697,1.049-10.97-2.734c-1.869-3.107-1.376-6.979,0.956-9.521l4.543-4.943"/>
-		<path fill="none" stroke="#037FFF" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" d="M42.23,15.83
-			c0.83,1.164,1.109,2.463,0.498,3.732c-0.121,0.252-0.275,0.5-0.463,0.738c-1.357,1.725-3.877,2.025-5.604,0.668"/>
-		<path fill="none" stroke="#037FFF" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" d="M30.178,36.033
-			c-2.271-0.559-3.673-2.871-3.115-5.141c0.558-2.271,2.872-3.67,5.144-3.113"/>
-		<path fill="none" stroke="#037FFF" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" d="M43.365,39.033
-			c-1.75-1.549-4.729-1.5-6.28,0.252c0,0-6.522,9.776-11.356,9.776"/>
-		
-			<line fill="none" stroke="#037FFF" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" x1="26.688" y1="56.27" x2="31.208" y2="57.781"/>
-		<path fill="none" stroke="#037FFF" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" d="M23.812,40.646
-			c0,0,4.25,2,7.25,5.249"/>
-	</g>
-	<g>
-		
-			<circle fill="none" stroke="#037FFF" stroke-width="2.5" stroke-linejoin="round" stroke-miterlimit="10" cx="66.328" cy="56.676" r="4.252"/>
-		<polyline fill="none" stroke="#037FFF" stroke-width="2.5" stroke-linejoin="round" stroke-miterlimit="10" points="
-			43.867,49.008 49.609,49.008 57.275,56.676 62.021,56.676 		"/>
-		<polyline fill="none" stroke="#037FFF" stroke-width="2.5" stroke-linejoin="round" stroke-miterlimit="10" points="
-			43.867,59.104 49.609,59.104 56.459,65.875 		"/>
-		
-			<circle fill="none" stroke="#037FFF" stroke-width="2.5" stroke-linejoin="round" stroke-miterlimit="10" cx="59.412" cy="68.906" r="4.252"/>
-	</g>
-	<g>
-		
-			<circle fill="none" stroke="#037FFF" stroke-width="2.5" stroke-linejoin="round" stroke-miterlimit="10" cx="66.328" cy="28.324" r="4.252"/>
-		<polyline fill="none" stroke="#037FFF" stroke-width="2.5" stroke-linejoin="round" stroke-miterlimit="10" points="43.867,35.99 
-			49.609,35.99 57.275,28.324 62.076,28.324 		"/>
-		<polyline fill="none" stroke="#037FFF" stroke-width="2.5" stroke-linejoin="round" stroke-miterlimit="10" points="
-			43.867,25.894 49.609,25.894 56.387,19.117 		"/>
-		
-			<circle fill="none" stroke="#037FFF" stroke-width="2.5" stroke-linejoin="round" stroke-miterlimit="10" cx="59.412" cy="16.093" r="4.252"/>
-	</g>
-	<g>
-		
-			<line fill="none" stroke="#037FFF" stroke-width="2.5" stroke-linejoin="round" stroke-miterlimit="10" x1="43.764" y1="42.499" x2="54.334" y2="42.499"/>
-		
-			<circle fill="none" stroke="#037FFF" stroke-width="2.5" stroke-linejoin="round" stroke-miterlimit="10" cx="58.523" cy="42.5" r="4.252"/>
-	</g>
-	<path fill="none" stroke="#037FFF" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" d="M37.808,63.93
-		c0.805-1.49,2.676-2.051,4.165-1.248c1.066,0.574,1.629,1.701,1.582,2.84"/>
-</g>
+<svg width="96" height="96" viewBox="0 0 96 96" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<rect width="96" height="96" fill="url(#pattern0)"/>
+<defs>
+<pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_29_13" transform="scale(0.0104167)"/>
+</pattern>
+<image id="image0_29_13" width="96" height="96" xlink:href="data:image/png;base64,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"/>
+</defs>
 </svg>

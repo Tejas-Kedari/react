@@ -26,6 +26,10 @@ const ServiceCardStyled = styled.div`
     }
     .container{
         padding: 1.2rem;
+
+        img clippath{
+            fill: #ff0000;
+        }
         h4{
             color: var(--white-color);
             font-size: 1.6rem;
@@ -45,6 +49,7 @@ const ServiceCardStyled = styled.div`
 
         p{
             padding: .8rem 0;
+            /* text-align: justify; */
         }
     }
 `;

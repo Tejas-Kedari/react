@@ -65,6 +65,8 @@ const HomePageStyled = styled.header`
             display: flex;
             justify-content: center;
             margin-top: 1rem;
+            flex-wrap: wrap;
+            row-gap: 15px;
             .icon{
                 border: 2px solid var(--border-color);
                 display: flex;
