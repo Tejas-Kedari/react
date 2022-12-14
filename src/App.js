@@ -70,7 +70,7 @@ function App() {
             <div className="line-3"></div>
             <div className="line-4"></div>
           </div>
-          {/* <Router basename="/portfolio"> */}
+          <Router basename="/portfolio">
           <Switching>
             <Route path="/react" exact>
               <HomePage />
@@ -91,7 +91,7 @@ function App() {
               <ContactPage />
             </Route>
           </Switching>
-            {/* </Router> */}
+            </Router>
         </MainContentStyled>
     </div>
   );
